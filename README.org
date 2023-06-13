@@ -1,0 +1,10 @@
+* tooter
+
+A Common Lisp client library for Mastodon instances.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/tooter.git   |
+| commit  | 731fcf0  |
+| systems | tooter |
+|---------+-------------------------------------------|
+
