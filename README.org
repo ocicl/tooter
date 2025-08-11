@@ -4,6 +4,6 @@ A Common Lisp client library for Mastodon instances.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/tooter.git |
-| commit  | 3d49aad                                    |
+| commit  | 29414e1                                    |
 | systems | tooter                                     |
 |---------+--------------------------------------------|
